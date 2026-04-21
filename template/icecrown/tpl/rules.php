@@ -12,7 +12,7 @@
 </p>
 <ul>
     <li>1: Register your account on this page.</li>
-    <li>2: Download the game client from the 'Register' tab above.</li>
+    <li>2: Download the game client from the 'How to Connect' tab above.</li>
     <li>3: Extract the game client to your user folder.</li>
     <li>4: Locate the realmlist file and open with a text editor.</li>
     <li>5: Change the hostname to what's displayed on the upper right.</li>
